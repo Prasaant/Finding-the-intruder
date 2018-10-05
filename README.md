@@ -9,5 +9,6 @@
  The centroid points are [[1.5431236260986279, 1.5338865813656084], [0.2607695145516201, 0.3246919971952048]]
  
 # After doing my k-means clustering with scikit module
+![k-means clustering with scikit module](https://user-images.githubusercontent.com/32761206/46534897-57b00280-c8c7-11e8-99cd-9185165c7dd2.png)
 
-
+The centroid points are [[0.22331067 0.28960446][1.58058247 1.56897412]]
